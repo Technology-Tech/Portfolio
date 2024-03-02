@@ -1,2 +1,2 @@
 # Portfolio
-Check Website Output https://github.com/Technology-Tech/Portfolio/settings/pages
+Check Website Output https://technology-tech.github.io/Portfolio/
